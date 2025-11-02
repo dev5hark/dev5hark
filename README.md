@@ -107,14 +107,14 @@
 ---
 
 ### GitHub Stats
-![Onwujekwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=onwujekwe&show_icons=true&theme=radical)
+![Dev5hark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev5hark&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onwujekwe&layout=compact&theme=radical)
 
 ---
 
 ### Connect with Me
-🐦 [Twitter / X](https://x.com/_onwujekwe)  
+🐦 [Twitter / X](https://x.com/_m7robot)  
 
 ---
 
